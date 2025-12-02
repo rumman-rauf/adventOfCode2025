@@ -1,0 +1,30 @@
+input shows direction and amount
+
+The safe has a dial with only an arrow on it; around the dial are the numbers 0 through 99 in order. 
+As you turn the dial, it makes a small click noise as it reaches each number.
+
+                     0
+  
+
+
+
+75                                         25
+                  
+
+
+                     50
+
+
+
+x = 50
+R421
+x = 471
+
+471 // 100 = 4
+71
+
+
+y = 40.  0, -100, -200
+L313
+y = -273
+
